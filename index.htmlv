@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Forever ❤️</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body class="final-page">
+
+<div class="petals"></div>
+<div class="particles"></div>
+
+<div class="glass-card final-card fade-in">
+
+<h1 class="final-title">
+❤️ Forever & Ever ❤️
+</h1>
+
+<div class="final-message">
+
+<p>
+
+Kl jo baat hui the hamare raat mein ke hum friends banke rahenge wo mere se nahi hoga or mein tumhe kahi jane bhi nahi dunga or abhi nahi to kabhi nahi forever and ever and ever i love you soo much or agar meine kabhi bhi tumhe dukhi kar du ya taklif du koyi problem du ya mere wajah se koyi problem hua to sidha mujhe batana chupake nahi rakhna mein wo problem samjha ke apne ap ko change karunga tumhare liye
+
+</p>
+
+</div>
+
+<div class="heart-beat">
+
+❤️
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
