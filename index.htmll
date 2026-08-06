@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Heart ❤️</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="background">
+    <div class="particles"></div>
+</div>
+
+<div class="glass-card fade-in">
+
+    <h1 class="title">
+        ❤️ Ye mere dil ki baat hai...
+    </h1>
+
+    <p class="message">
+
+        Jo main aaj bolkar hi rahunga.
+        <br><br>
+
+        Ye baat mujhe kal hi bol deni chahiye thi,
+        lekin himmat hi nahi ho paayi...
+        <br><br>
+
+        Isliye aaj apne dil ki har baat tumse kehna chahta hoon. ❤️
+
+    </p>
+
+    <div class="button-group">
+
+        <button class="back-btn"
+        onclick="window.location.href='index.html'">
+            ← Back
+        </button>
+
+        <button class="next-btn"
+        onclick="window.location.href='page3.html'">
+            Next ❤️
+        </button>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
