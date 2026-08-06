@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Letter For Lily ❤️</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body class="letter-page">
+
+<div class="background">
+<div class="particles"></div>
+</div>
+
+<div class="letter-container">
+
+<div class="letter" id="letter">
+
+<div class="letter-front">
+
+<h2>💌</h2>
+
+<h1>Open Letter</h1>
+
+<p>Tap To Open</p>
+
+</div>
+
+<div class="letter-back">
+
+<h2>❤️</h2>
+
+<p>
+
+Dua hai teri mohabbat ke siwa koi aur na mile.
+
+<br><br>
+
+Zindagi mein sirf tu mile...
+
+<br><br>
+
+Ya phir zindagi na mile. ❤️
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<button
+class="continue-btn"
+id="page4Btn"
+onclick="window.location.href='page5.html'">
+
+Continue ❤️
+
+</button>
+
+<script src="script.js"></script>
+
+</body>
+</html>
